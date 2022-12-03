@@ -1,0 +1,3 @@
+/Users/waitforever/CLionProjects/complex number/cmake-build-debug/CMakeFiles/complex_number.dir
+/Users/waitforever/CLionProjects/complex number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/waitforever/CLionProjects/complex number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
